@@ -2599,7 +2599,7 @@ const dataMET01 = [
   {
     "id": 169,
     "question": "169) What kind of skin lesion you see in the picture?",
-    "image": "images/page48_ulcer.jpg",
+    "image": "https://raw.githubusercontent.com/chamroeunchet-blip/des-mcq-s2/refs/heads/main/1.png",
     "correct": "An ulcer",
     "incorrect": [
       "An erosion",
@@ -2611,7 +2611,7 @@ const dataMET01 = [
   {
     "id": 170,
     "question": "170) What kind of skin lesion you see in the picture?",
-    "image": "images/page49_pustules.jpg",
+    "image": "https://raw.githubusercontent.com/chamroeunchet-blip/des-mcq-s2/refs/heads/main/2.png",
     "correct": "Pustules",
     "incorrect": [
       "Vesicles",
@@ -2623,7 +2623,7 @@ const dataMET01 = [
   {
     "id": 171,
     "question": "171) What kind of skin lesion you see in the picture?",
-    "image": "images/page50_patches.jpg",
+    "image": "https://raw.githubusercontent.com/chamroeunchet-blip/des-mcq-s2/refs/heads/main/3.png",
     "correct": "Patches",
     "incorrect": [
       "Vesicles",
@@ -2635,7 +2635,7 @@ const dataMET01 = [
   {
     "id": 172,
     "question": "172) What kind of configuration lesion you see in the picture?",
-    "image": "images/page50_serpiginous.jpg",
+    "image": "https://raw.githubusercontent.com/chamroeunchet-blip/des-mcq-s2/refs/heads/main/4.png",
     "correct": "Serpiginous",
     "incorrect": [
       "Annular",
@@ -2647,7 +2647,7 @@ const dataMET01 = [
   {
     "id": 173,
     "question": "173) What kind of skin lesion you see in the picture?",
-    "image": "images/page51_purpura.jpg",
+    "image": "https://raw.githubusercontent.com/chamroeunchet-blip/des-mcq-s2/refs/heads/main/5.png",
     "correct": "Purpura",
     "incorrect": [
       "Telangiectasia",
@@ -2659,7 +2659,7 @@ const dataMET01 = [
   {
     "id": 174,
     "question": "174) What kind of configuration lesion you see in the picture?",
-    "image": "images/page51_annular.jpg",
+    "image": "https://raw.githubusercontent.com/chamroeunchet-blip/des-mcq-s2/refs/heads/main/6.png",
     "correct": "Annular",
     "incorrect": [
       "Reticular",
@@ -2671,7 +2671,7 @@ const dataMET01 = [
   {
     "id": 175,
     "question": "175) What kind of skin lesion you see in the picture?",
-    "image": "images/page52_scale.jpg",
+    "image": "https://raw.githubusercontent.com/chamroeunchet-blip/des-mcq-s2/refs/heads/main/7.png",
     "correct": "Scale",
     "incorrect": [
       "Crust",
